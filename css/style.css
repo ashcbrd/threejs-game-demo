@@ -11,7 +11,7 @@
 body {
   overflow: hidden;
   font-family: "gameFont";
-  background-image: url(../img/landing.PNG);
+  background-image: url(../img/landing.jpg);
   background-size: cover;
   background-position: center;
 }
